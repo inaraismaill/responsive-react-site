@@ -1,0 +1,76 @@
+{
+ "allData":{
+  "plans": [
+    {
+      "key": "1",
+      "type": "Yearly",
+      "description": "Digital marketing encompasses all online strategies used to promote products or services.",
+      "price": 999,
+      "payment_frequency": "Pay once a year",
+      "services_included": [
+        "Design & Marketing Services",
+        "Unlimited Revisions & Requests",
+        "One Dedicated Project Manager",
+        "Daily Communication via Slack",
+        "Monitoring campaigns",
+        "Variable Ad Testing"
+      ],
+      "availability": "5 Days/Week, 130 Hours/Month"
+    },
+    {
+      "key": "2",
+      "type": "Bi-Annual",
+      "description": "Digital marketing encompasses all online strategies used to promote products or services.",
+      "price": 1999,
+      "payment_frequency": "Pay twice a year",
+      "services_included": [
+        "Design & Marketing Services",
+        "Unlimited Revisions & Requests",
+        "One Dedicated Project Manager",
+        "Daily Communication via Slack",
+        "Monitoring campaigns",
+        "Variable Ad Testing"
+      ],
+      "availability": "5 Days/Week, 130 Hours/Month"
+    },
+    {
+      "key": "3",
+      "type": "Monthly",
+      "description": "Digital marketing encompasses all online strategies used to promote products or services.",
+      "price": 3999,
+      "payment_frequency": "Pay as you go",
+      "services_included": [
+        "Design & Marketing Services",
+        "Unlimited Revisions & Requests",
+        "One Dedicated Project Manager",
+        "Daily Communication via Slack",
+        "Monitoring campaigns",
+        "Variable Ad Testing"
+      ],
+      "availability": "5 Days/Week, 130 Hours/Month"
+    }
+  ],
+  "questions_and_answers": [
+    {
+      "question": "What is digital marketing, and why is it important for businesses?",
+      "answer": "Digital marketing encompasses all online strategies used to promote products or services. It's crucial for businesses as it allows for precise targeting, better engagement, and measurable results, ultimately boosting brand visibility and revenue."
+    },
+    {
+      "question": "What role does mobile optimization play in digital marketing?",
+      "answer": "Mobile optimization ensures that your digital content is accessible and functional on mobile devices. It's important because a significant portion of online traffic comes from mobile users, and optimizing for mobile improves user experience, engagement, and search engine rankings."
+    },
+    {
+      "question": "What is the difference between SEO and PPC?",
+      "answer": "SEO (Search Engine Optimization) focuses on improving a website's organic search rankings through content optimization and link building, while PPC (Pay-Per-Click) involves paying for ads to appear on search engines and other platforms. SEO is generally more cost-effective long-term, while PPC provides immediate visibility."
+    },
+    {
+      "question": "How do I measure the success of my digital marketing campaigns?",
+      "answer": "Success in digital marketing can be measured using various metrics such as website traffic, conversion rates, click-through rates, engagement rates, and return on investment (ROI). Tools like Google Analytics and social media insights help track these metrics."
+    },
+    {
+      "question": "Is email marketing still effective in today's digital landscape?",
+      "answer": "Yes, email marketing remains effective due to its direct reach and personalization capabilities. It allows businesses to engage with their audience, nurture leads, and drive sales through targeted and relevant content."
+    }
+  ]
+ }
+}
